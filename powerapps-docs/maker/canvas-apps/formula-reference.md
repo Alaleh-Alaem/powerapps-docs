@@ -271,6 +271,8 @@ Other elements include:
 
 **[Proper](functions/function-lower-upper-proper.md)** – Converts the first letter of each word in a string to uppercase, and converts the rest to lowercase.
 
+**[Print](functions/function-print.md)** – Open print screen in browser  
+
 ## R
 **[Radians](functions/function-trig.md)** - Converts degrees to radians.
 
